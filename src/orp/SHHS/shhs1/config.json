@@ -1,0 +1,15 @@
+{    
+    "sample_config": {
+        "channel": "EEG EEG",
+        
+        "preproc_path": "../preprocess/preprocessed",
+        "labels_dir": "label-1s",
+        "subj_path": "../irasa/<ds_name>/subjects/shhs1-C4-good-subjects.csv",
+        
+        "do_clip_by_lights_on_off": false
+    },
+    
+    "output_config": {
+        "version": "v1"
+    }
+}
