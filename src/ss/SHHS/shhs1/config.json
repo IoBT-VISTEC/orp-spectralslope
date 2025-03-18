@@ -1,0 +1,12 @@
+{    
+    "sample_config": {
+        "preproc_path": "../preprocess/preprocessed",
+        "data_info_path": "../data_info/<ds_name>/label-info.csv",
+        "subj_path": "./<ds_name>/subjects/shhs1-C4-good-subjects.csv",
+        "do_clip_by_lights_on_off": false
+    },
+    
+    "output_config": {
+        "version": "v1"
+    }
+}

@@ -1,0 +1,12 @@
+{    
+    "sample_config": {
+        "preproc_path": "../preprocess/preprocessed",
+        "data_info_path": "../../data_info/<ds_name>/label-info.csv",
+        "subj_path": "./<ds_name>/subjects/EEG3-good-subjects.csv",
+        "do_clip_by_lights_on_off": true
+    },
+    
+    "output_config": {
+        "version": "v1"
+    }
+}

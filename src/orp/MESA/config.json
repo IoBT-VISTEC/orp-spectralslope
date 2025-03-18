@@ -1,0 +1,15 @@
+{    
+    "sample_config": {
+        "channel": "EEG EEG3",
+        
+        "preproc_path": "../preprocess/preprocessed",
+        "labels_dir": "label-1s",
+        "subj_path": "../ss/<ds_name>/subjects/EEG3-good-subjects.csv",
+        
+        "do_clip_by_lights_on_off": true
+    },
+    
+    "output_config": {
+        "version": "v1"
+    }
+}
